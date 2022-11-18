@@ -1,0 +1,12 @@
+.container {
+    /* padding: 30px; */
+    position: relative;
+    width: 500px;
+    height: 400px;
+    margin: 240px auto;
+    background-color: darkgray;
+border: brown 5px solid;
+}
+.form h5{
+    display: inline;
+}
